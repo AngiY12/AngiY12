@@ -39,9 +39,3 @@ Machine Learning • Deep Learning • CNNs
 ---
 
 ✨ *“One commit at a time.”*
-
-## 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngiY12&show_icons=true&theme=radical" alt="Estadísticas de Angie" />
-</div>
