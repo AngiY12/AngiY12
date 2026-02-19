@@ -1,6 +1,6 @@
 # Hi, I'm Angi 👋
 
-Software Engineering Student from Ecuador 🇪🇨  
+💻 Software Engineering Student from Ecuador 🇪🇨  
 Fullstack Developer | AI Enthusiast  
 
 I build web and mobile applications that solve real-world problems.  
@@ -8,7 +8,7 @@ Focused on clean architecture, scalable systems, and intelligent solutions.
 
 ---
 
-## About Me
+## 🎓 About Me
 
 - 🎓 Universidad de las Fuerzas Armadas ESPE  
 - 🔬 IEEE Member  
@@ -38,4 +38,4 @@ Machine Learning • Deep Learning • CNNs
 
 ---
 
-> “One commit at a time.”
+> ✨ “One commit at a time.”
